@@ -1,0 +1,4 @@
+git pull gitee master
+git add .
+git commit -m "推送图片"
+git push github master
