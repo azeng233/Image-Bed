@@ -27,3 +27,4 @@ jobs:
           git config --global user.email "1239571995@qq.com"
           git config --global user.name "azeng233"
           git pull --rebase https://gitee.com/azeng233/Image-Bed.git
+          git push -f
